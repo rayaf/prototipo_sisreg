@@ -1,0 +1,27 @@
+.row{
+	margin-top: 18px; 
+}
+
+.centralizar{
+	text-align: center;
+}
+
+.direita{
+	text-align: right;
+}
+
+.esquerda{
+	text-align: left;
+}
+
+.btw{
+	width: 13em;
+}
+
+p{
+	font-size: 1.2em;
+}
+
+.teto{
+	margin-top: 18px;
+}
